@@ -1,6 +1,12 @@
 # 🚨 Feature 4: Alertas y Notificaciones Inteligentes (EV04)  
 **FleetGuard360 – Sistema Inteligente de Monitoreo Satelital para Transporte de Pasajeros**
 
+### Integrantes de Arq. de Software en el equipo: 
+- Angie Paola Yarce Gomez
+- Yeison Ochoa Cárdenas 
+- Juan Carlos Santa Hurtado
+  
+
 ## 1. 📘 Diseño Detallado de APIs
 
 ### 📄 Documentación Formal de APIs (OpenAPI/Swagger)
