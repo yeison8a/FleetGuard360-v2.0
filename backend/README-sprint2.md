@@ -2,7 +2,7 @@
 **FleetGuard360 – Sistema Inteligente de Monitoreo Satelital para Transporte de Pasajeros**
 
 > [!IMPORTANT]  
-> Vídeo de la presentación: https://youtu.be/TEIHlQfE6Vg
+> Vídeo de la Review en Fábrica Escuela: https://youtu.be/TEIHlQfE6Vg
 
 ### Integrantes de Arq. de Software en el equipo: 
 - Angie Paola Yarce Gomez
