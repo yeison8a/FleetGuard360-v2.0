@@ -5,6 +5,12 @@
 - Angie Paola Yarce Gomez
 - Yeison Ochoa Cárdenas 
 - Juan Carlos Santa Hurtado
+
+
+### Despliegue Fábrica Escuela: 
+Debido a la falta de un estudiante de ingeniería web, los integrantes de Arq. de Software en el equipo también tuvo que trabajar tanto en el backend como en el frontend para presentarlo en la fábrica de la escuela. El resultado es el siguiente:
+
+- https://fleet-guard360-v1-0-1a7g.vercel.app/
   
 
 ## 1. 📘 Diseño Detallado de APIs
