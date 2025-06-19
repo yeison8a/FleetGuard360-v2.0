@@ -13,7 +13,7 @@ Vídeo de la presentación: https://youtu.be/TEIHlQfE6Vg
 https://fleet-guard360-v1-0-1a7g.vercel.app/
 
 > [!NOTE]
-> Debido a la falta de un estudiante de ingeniería web, los integrantes de Arq. de Software en el equipo también tuvo que trabajar tanto en el backend como en el frontend para presentarlo en la fábrica de la escuela.
+> Debido a la ausencia de un estudiante de Ingeniería Web, los integrantes de Arquitectura de Software del equipo también tuvieron que trabajar tanto en el backend como en el frontend para presentarlo en la fábrica de la escuela.
   
 
 ## 1. 📘 Diseño Detallado de APIs
